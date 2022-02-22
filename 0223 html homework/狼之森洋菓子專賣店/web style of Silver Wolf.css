@@ -1,0 +1,34 @@
+#Table1_tr1{
+    background-color: blanchedalmond;
+}
+#Table1_tr2{
+    background-color: rgb(255, 254, 205);
+}
+#Table1_tr3{
+    background-color: #ffffff;
+}
+#Table2{
+    background-color: #ffffff;
+}
+hr{
+    border: 0px; height: 2px; background-color: rgba(143, 210, 236, 0.432);
+}
+#divindex1{
+    border: 0px solid #000000;
+    padding: 0px;
+    margin-left: 505px;
+    margin-top: 14px;
+    float: left;
+}
+#divindex2{
+    border: 0px solid #000000;
+    padding: 0px;
+    float: left;
+}
+#divindex3{
+    border: 0px solid #000000;
+    padding: 0px;
+    margin-left: 921px;
+    margin-right: 490px;
+    margin-top: 14px;
+}
